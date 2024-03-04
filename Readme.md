@@ -1,6 +1,6 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Анастасия Яковлева](https://up.htmlacademy.ru/javascript/31/user/43580).
+* Студент: [Даниил Яковлев](https://up.htmlacademy.ru/javascript/31/user/43580).
 * Наставник: `Неизвестно`.
 
 ---
